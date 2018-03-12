@@ -24,7 +24,11 @@ import java.util.Random;
 
 
 public class MainActivity extends AppCompatActivity {
+    //test lines
 
+
+
+    //test branch
     private Context context = MainActivity.this;
     private ImageView coinGifView;
     private EnumChoice choice;
